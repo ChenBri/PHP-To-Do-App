@@ -2,7 +2,7 @@ CREATE TABLE tasks (
   id INT AUTO_INCREMENT PRIMARY KEY,
   user_id INT NOT NULL,
   task_name VARCHAR(255) NOT NULL,
-  task_status ENUM('pending', 'completed') DEFAULT 'pending',
+  completed BOOLEAN DEFAULT FALSE,
   created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 
