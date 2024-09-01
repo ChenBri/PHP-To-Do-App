@@ -1,0 +1,31 @@
+/* css/styles.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+h2 {
+    color: #333;
+}
+
+form {
+    margin: 20px;
+}
+
+input, button {
+    margin: 5px 0;
+    padding: 10px;
+    width: 100%;
+}
+
+a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+.completed {
+    color: green;
+    text-decoration: line-through;
+}
