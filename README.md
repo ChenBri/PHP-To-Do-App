@@ -3,7 +3,7 @@
 ### Overview
 This To-Do List application is a simple web-based application designed to help you manage your tasks. It allows users to create, update, mark as complete, and delete tasks. Each user can securely manage their own tasks with a simple authentication.
 
-This project was developed as an exercise to gain experience with PHP and to understand the basics of server-side scripting and database interactions. XAMPP is used as the local server environment.
+This project was developed as an exercise to gain experience with PHP. XAMPP is used as the local server environment and MySQL is used as my DBMS.
 
 <div align="center">
 <a href="./images/Tasks_Image.png">
